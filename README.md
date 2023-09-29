@@ -1,1 +1,1 @@
-# Version-Control-GitHub-Basics
+# Version-Control-GitHub-Challenge
